@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Coffee and Salad</name>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Church Coffee</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -96.800453,32.8447412,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Café 43</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -96.7783962,32.8413794,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Starbucks</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -96.7833179,32.8441883,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[CRISP & GREEN]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -96.7878725,32.8463573,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Original ChopShop</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -96.7873689,32.8440796,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Jason's Deli]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -96.7756351,32.8362929,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>East Hampton Sandwich Co.</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -96.7877139,32.8496912,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Panera Bread</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -96.78335,32.843555,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Festive Kitchen</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -96.787243,32.8477011,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zest Café</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -96.787649,32.8483705,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chick-fil-A</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -96.7832555,32.8436192,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Short Stop Food to Go</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -96.7876749,32.8498431,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Snappy Salads Greenville</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -96.7688733,32.8580058,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
